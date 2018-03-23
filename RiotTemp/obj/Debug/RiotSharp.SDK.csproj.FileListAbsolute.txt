@@ -1,0 +1,14 @@
+C:\Users\Edcarlos\Desktop\EB\LeagueHack-master\EloBuddy.SDK\EloBuddy.SDK\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Edcarlos\Desktop\EB\LeagueHack-master\EloBuddy.SDK\EloBuddy.SDK\bin\Debug\EloBuddy.SDK.pdb
+C:\Users\Edcarlos\Desktop\EB\LeagueHack-master\EloBuddy.SDK\EloBuddy.SDK\bin\Debug\EloBuddy.dll
+C:\Users\Edcarlos\Desktop\EB\LeagueHack-master\EloBuddy.SDK\EloBuddy.SDK\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\Edcarlos\Desktop\EB\LeagueHack-master\EloBuddy.SDK\EloBuddy.SDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Edcarlos\Desktop\EB\LeagueHack-master\EloBuddy.SDK\EloBuddy.SDK\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Edcarlos\Desktop\EB\LeagueHack-master\EloBuddy.SDK\EloBuddy.SDK\bin\Debug\SharpDX.dll
+C:\Users\Edcarlos\Desktop\EB\LeagueHack-master\EloBuddy.SDK\EloBuddy.SDK\obj\Debug\RiotSharp.SDK.csprojResolveAssemblyReference.cache
+C:\Users\Edcarlos\Desktop\EB\LeagueHack-master\EloBuddy.SDK\EloBuddy.SDK\obj\Debug\EloBuddy.SDK.Properties.Resources.resources
+C:\Users\Edcarlos\Desktop\EB\LeagueHack-master\EloBuddy.SDK\EloBuddy.SDK\obj\Debug\RiotSharp.SDK.csproj.GenerateResource.cache
+C:\Users\Edcarlos\Desktop\EB\LeagueHack-master\EloBuddy.SDK\EloBuddy.SDK\obj\Debug\RiotSharp.SDK.csproj.CoreCompileInputs.cache
+C:\Users\Edcarlos\Desktop\EB\LeagueHack-master\EloBuddy.SDK\EloBuddy.SDK\obj\Debug\RiotSharp.SDK.csproj.CopyComplete
+C:\Users\Edcarlos\Desktop\EB\LeagueHack-master\EloBuddy.SDK\EloBuddy.SDK\obj\Debug\EloBuddy.SDK.dll
+C:\Users\Edcarlos\Desktop\EB\LeagueHack-master\EloBuddy.SDK\EloBuddy.SDK\obj\Debug\EloBuddy.SDK.pdb
